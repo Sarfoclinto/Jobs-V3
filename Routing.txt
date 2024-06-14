@@ -1,0 +1,14 @@
+<Router >
+   <Routes>
+	<Route path="/"  element={<landingpage />} />
+	<Route path="/login"  element={<loginpage />} />
+	<Route path="/main"  element={<Privateroute/>} >
+		<Sidebar />
+		<Navbar />
+		<Route path="/main/deals"  element={<Deals />} />
+		<Route path="/main/processing"  element={<Processing />} />
+		<Route path="/main/settings"  element={<Settings />} />
+		<Route path="/main/news"  element={<News/>} />
+	</Route>
+   </Routes>
+</Router >

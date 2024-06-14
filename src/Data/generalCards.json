@@ -1,0 +1,335 @@
+{
+  "all": [
+    {
+      "id": "001",
+      "category": "Engineering and Technology",
+      "field": "give-out",
+      "jobname": "Innovatech Solutions",
+      "name": "Michael Thompson",
+      "email": "m.thompson@innovatech-solutions.com",
+      "phone": "+233 20 123 4567",
+      "description": "Seeking an experienced software engineer to develop cutting-edge applications.",
+      "skillrequired": [
+        "Proficiency in JavaScript",
+        "React",
+        "Node.js",
+        "strong problem-solving skills."
+      ],
+      "from-date": "2024-07-01",
+      "to-date": "2024-12-31",
+      "wage/salary-range": "$80,000 - $120,000 annually",
+      "img": "tech"
+    },
+    {
+      "id": "fca23",
+      "category": [
+        "Engineering and Technology",
+        "Healthcare",
+        "Education and Training"
+      ],
+      "field": "take-in",
+      "name": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "phone": "+233 55 123 4567",
+      "description": "Experienced software developer with a passion for healthcare technology.",
+      "skillExperience": [
+        "Full-stack development",
+        "Healthcare systems",
+        "Agile methodologies"
+      ],
+      "available-time": "2024-07-01 to 2024-12-31",
+      "jobs-completed": [
+        "Hospital patient management system",
+        "Clinic appointment app"
+      ],
+      "img": "tech"
+    },
+    {
+      "id": "002",
+      "category": "Healthcare",
+      "field": "take-in",
+      "jobname": "City Hospital",
+      "name": "Dr. Linda Kwame",
+      "email": "l.kwame@cityhospital.com",
+      "phone": "+233 24 987 6543",
+      "description": "Looking for a compassionate nurse to provide top-notch patient care.",
+      "skillrequired": [
+        "Registered Nurse certification",
+        "Excellent bedside manner",
+        "Clinical skills."
+      ],
+      "from-date": "2024-08-15",
+      "to-date": "2025-02-15",
+      "wage/salary-range": "GH₵ 3,500 - GH₵ 5,000 monthly",
+      "img": "health"
+    },
+    {
+      "id": "003",
+      "category": "Education and Training",
+      "field": "give-out",
+      "jobname": "Global Tech Academy",
+      "name": "Patricia Mensah",
+      "email": "p.mensah@globaltechacademy.edu",
+      "phone": "+233 27 890 1234",
+      "description": "In need of a computer science teacher to lead our advanced programming courses.",
+      "skillrequired": [
+        "Degree in Computer Science",
+        "Experience in teaching, and knowledge of latest programming trends"
+      ],
+      "from-date": "2024-09-01",
+      "to-date": "2025-05-31",
+      "wage/salary-range": "GH₵ 2,000 - GH₵ 3,000 monthly",
+      "img": "education"
+    },
+    {
+      "id": "asq12",
+      "category": ["Sales and Marketing", "Service Industry"],
+      "field": "take-in",
+      "name": "Bob Kwame",
+      "email": "bob.kwame@example.com",
+      "phone": "+233 55 987 6543",
+      "description": "Dynamic sales strategist with extensive customer service experience.",
+      "skillExperience": [
+        "Market analysis",
+        "Customer relationship management",
+        "Sales leadership"
+      ],
+      "available-time": "2024-08-01 to 2025-01-31",
+      "jobs-completed": [
+        "Retail marketing campaign",
+        "Customer service training program"
+      ],
+      "img": "sales"
+    },
+    {
+      "id": "rfd23",
+      "category": ["Education and Training", "Arts and Entertainment"],
+      "field": "take-in",
+      "name": "Charles Adjei",
+      "email": "charles.adjei@example.com",
+      "phone": "+233 55 678 1234",
+      "description": "Creative educator with a background in performing arts.",
+      "skillExperience": [
+        "Curriculum development",
+        "Theater production",
+        "Public speaking"
+      ],
+      "available-time": "2024-09-01 to 2025-03-31",
+      "jobs-completed": [
+        "School drama club director",
+        "Community theater workshop leader"
+      ],
+      "img": "education"
+    },
+    {
+      "id": "qwe34",
+      "category": ["Healthcare", "Service Industry"],
+      "field": "take-in",
+      "name": "Diana Asamoah",
+      "email": "diana.asamoah@example.com",
+      "phone": "+233 55 321 9876",
+      "description": "Certified nurse with a heart for elderly care.",
+      "skillExperience": [
+        "Patient care",
+        "Elderly support",
+        "Medical administration"
+      ],
+      "available-time": "2024-10-01 to 2025-04-30",
+      "jobs-completed": [
+        "Home care nurse",
+        "Assisted living facility coordinator"
+      ],
+      "img": "health"
+    },
+    {
+      "id": "004",
+      "category": "Sales and Marketing",
+      "field": "give-out",
+      "jobname": "QuickSell Enterprises",
+      "name": "Kwabena Adu",
+      "email": "k.adu@quicksell-enterprises.com",
+      "phone": "+233 30 321 6547",
+      "description": "Dynamic sales manager needed to lead our regional sales team.",
+      "skillrequired": [
+        "Strong leadership",
+        "Sales experience",
+        "Aility to meet targets"
+      ],
+      "from-date": "2024-06-01",
+      "to-date": "2024-12-01",
+      "wage/salary-range": "GH₵ 4,000 - GH₵ 6,000 monthly plus bonuses",
+      "img": "sales"
+    },
+    {
+      "id": "005",
+      "category": "Service Industry",
+      "field": "take-in",
+      "jobname": "Royal Event Planners",
+      "name": "Ama Serwaa",
+      "email": "a.serwaa@royaleventplanners.com",
+      "phone": "+233 28 765 4321",
+      "description": "Experienced event coordinator for high-profile corporate events.",
+      "skillrequired": [
+        "Event planning experience",
+        "Attention to detail",
+        "Excellent organizational skills"
+      ],
+      "from-date": "2024-10-01",
+      "to-date": "2025-03-31",
+      "wage/salary-range": "GH₵ 2,500 - GH₵ 4,500 monthly",
+      "img": "service"
+    },
+    {
+      "id": "asd45",
+      "category": ["Engineering and Technology", "Construction and Trades"],
+      "field": "take-in",
+      "name": "Emmanuel Boakye",
+      "email": "emmanuel.boakye@example.com",
+      "phone": "+233 55 654 7890",
+      "description": "Civil engineer with a focus on sustainable building practices.",
+      "skillExperience": [
+        "Structural engineering",
+        "Project management",
+        "Green technologies"
+      ],
+      "available-time": "2024-11-01 to 2025-05-31",
+      "jobs-completed": [
+        "Eco-friendly residential complex",
+        "Renewable energy project"
+      ],
+      "img": "tech"
+    },
+    {
+      "id": "006",
+      "category": "Transportation and Logistics",
+      "field": "give-out",
+      "jobname": "FastCargo Logistics",
+      "name": "Daniel Boateng",
+      "email": "d.boateng@fastcargo.com",
+      "phone": "+233 31 987 6543",
+      "description": "We require a logistics manager to optimize our supply chain operations and ensure timely delivery.",
+      "skillrequired": [
+        "Experience in logistics management",
+        "Strategic planning",
+        "Excellent communication skills"
+      ],
+      "from-date": "2024-07-15",
+      "to-date": "2025-01-15",
+      "wage/salary-range": "GH₵ 3,000 - GH₵ 4,500 monthly",
+      "img": "transport"
+    },
+    {
+      "id": "007",
+      "category": "Construction and Trades",
+      "field": "take-in",
+      "jobname": "BuildWell Construction",
+      "name": "Yaw Asare",
+      "email": "y.asare@buildwellconstruction.com",
+      "phone": "+233 32 123 4567",
+      "description": "Professional civil engineer needed for infrastructure projects.",
+      "skillrequired": [
+        "Civil engineering degree",
+        "Project management experience",
+        "Proficiency in CAD software."
+      ],
+      "from-date": "2024-08-01",
+      "to-date": "2025-02-28",
+      "wage/salary-range": "GH₵ 5,000 - GH₵ 7,000 monthly",
+      "img": "construction"
+    },
+    {
+      "id": "zxc56",
+      "category": ["Transportation and Logistics", "Service Industry"],
+      "field": "take-in",
+      "name": "Frank Acheampong",
+      "email": "frank.acheampong@example.com",
+      "phone": "+233 55 765 4321",
+      "description": "Logistics expert with a knack for efficiency and customer satisfaction.",
+      "skillExperience": [
+        "Supply chain optimization",
+        "Fleet management",
+        "Client relations"
+      ],
+      "available-time": "2024-12-01 to 2025-06-30",
+      "jobs-completed": [
+        "Warehouse management system overhaul",
+        "Delivery route optimization"
+      ],
+      "img": "transport"
+    },
+    {
+      "id": "rfv67",
+      "category": ["Business and Finance", "Sales and Marketing"],
+      "field": "take-in",
+      "name": "Grace Mensah",
+      "email": "grace.mensah@example.com",
+      "phone": "+233 55 876 5432",
+      "description": "Innovative financial analyst with a proven track record in market growth.",
+      "skillExperience": [
+        "Financial modeling",
+        "Investment strategies",
+        "Market research"
+      ],
+      "available-time": "2025-01-01 to 2025-07-31",
+      "jobs-completed": [
+        "Startup investment analysis",
+        "Market expansion project"
+      ],
+      "img": "finance"
+    },
+    {
+      "id": "cvb78",
+      "category": ["Education and Training", "Healthcare"],
+      "field": "take-in",
+      "name": "Henry Ofori",
+      "email": "henry.ofori@example.com",
+      "phone": "+233 55 987 6543",
+      "description": "Health educator specializing in community wellness programs.",
+      "skillExperience": [
+        "Public health campaigns",
+        "Workshop facilitation",
+        "Nutritional counseling"
+      ],
+      "available-time": "2025-02-01 to 2025-08-31",
+      "jobs-completed": ["City health initiative", "School nutrition program"],
+      "img": "education"
+    },
+    {
+      "id": "bna89",
+      "category": ["Arts and Entertainment", "Education and Training"],
+      "field": "take-in",
+      "name": "Ivy Quaye",
+      "email": "ivy.quaye@example.com",
+      "phone": "+233 55 098 7654",
+      "description": "Artistic director with a passion for community arts education.",
+      "skillExperience": [
+        "Art curation",
+        "Event planning",
+        "Educational outreach"
+      ],
+      "available-time": "2025-03-01 to 2025-09-30",
+      "jobs-completed": [
+        "Gallery exhibition coordination",
+        "Art festival organization"
+      ],
+      "img": "arts"
+    },
+    {
+      "id": "nml90",
+      "category": ["Service Industry", "Sales and Marketing"],
+      "field": "take-in",
+      "name": "Joyce Dapaah",
+      "email": "joyce.dapaah@example.com",
+      "phone": "+233 55 109 8765",
+      "description": "Customer service specialist with a flair for sales and marketing.",
+      "skillExperience": [
+        "Client support",
+        "Sales pitching",
+        "Brand promotion"
+      ],
+      "available-time": "2025-04-01 to 2025-10-31",
+      "jobs-completed": ["Customer retention campaign", "Product launch event"],
+      "img": "sales"
+    }
+  ]
+}

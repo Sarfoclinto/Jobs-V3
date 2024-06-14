@@ -1,0 +1,102 @@
+{
+    "giveOuts": [
+        {
+          "id": "001",
+          "category": "Engineering and Technology",
+          "field": "give-out",
+          "jobname": "Innovatech Solutions",
+          "name": "Michael Thompson",
+          "email": "m.thompson@innovatech-solutions.com",
+          "phone": "+233 20 123 4567",
+          "description": "Seeking an experienced software engineer to develop cutting-edge applications.",
+          "skill-required": "Proficiency in JavaScript, React, and Node.js; strong problem-solving skills.",
+          "from-date": "2024-07-01",
+          "to-date": "2024-12-31",
+          "wage/salary-range": "$80,000 - $120,000 annually"
+        },
+        {
+          "id": "002",
+          "category": "Healthcare",
+          "field": "take-in",
+          "jobname": "City Hospital",
+          "name": "Dr. Linda Kwame",
+          "email": "l.kwame@cityhospital.com",
+          "phone": "+233 24 987 6543",
+          "description": "Looking for a compassionate nurse to provide top-notch patient care.",
+          "skill-required": "Registered Nurse certification, excellent bedside manner, and clinical skills.",
+          "from-date": "2024-08-15",
+          "to-date": "2025-02-15",
+          "wage/salary-range": "GH₵ 3,500 - GH₵ 5,000 monthly"
+        },
+        {
+          "id": "003",
+          "category": "Education and Training",
+          "field": "give-out",
+          "jobname": "Global Tech Academy",
+          "name": "Patricia Mensah",
+          "email": "p.mensah@globaltechacademy.edu",
+          "phone": "+233 27 890 1234",
+          "description": "In need of a computer science teacher to lead our advanced programming courses.",
+          "skill-required": "Degree in Computer Science, experience in teaching, and knowledge of latest programming trends.",
+          "from-date": "2024-09-01",
+          "to-date": "2025-05-31",
+          "wage/salary-range": "GH₵ 2,000 - GH₵ 3,000 monthly"
+        },
+        {
+          "id": "004",
+          "category": "Sales and Marketing",
+          "field": "give-out",
+          "jobname": "QuickSell Enterprises",
+          "name": "Kwabena Adu",
+          "email": "k.adu@quicksell-enterprises.com",
+          "phone": "+233 30 321 6547",
+          "description": "Dynamic sales manager needed to lead our regional sales team.",
+          "skill-required": "Strong leadership, sales experience, and ability to meet targets.",
+          "from-date": "2024-06-01",
+          "to-date": "2024-12-01",
+          "wage/salary-range": "GH₵ 4,000 - GH₵ 6,000 monthly plus bonuses"
+        },
+        {
+          "id": "005",
+          "category": "Service Industry",
+          "field": "take-in",
+          "jobname": "Royal Event Planners",
+          "name": "Ama Serwaa",
+          "email": "a.serwaa@royaleventplanners.com",
+          "phone": "+233 28 765 4321",
+          "description": "Experienced event coordinator for high-profile corporate events.",
+          "skill-required": "Event planning experience, attention to detail, and excellent organizational skills.",
+          "from-date": "2024-10-01",
+          "to-date": "2025-03-31",
+          "wage/salary-range": "GH₵ 2,500 - GH₵ 4,500 monthly"
+        },
+        {
+          "id": "006",
+          "category": "Transportation and Logistics",
+          "field": "give-out",
+          "jobname": "FastCargo Logistics",
+          "name": "Daniel Boateng",
+          "email": "d.boateng@fastcargo.com",
+          "phone": "+233 31 987 6543",
+          "description": "We require a logistics manager to optimize our supply chain operations.",
+          "skill-required": "Experience in logistics management, strategic planning, and excellent communication skills.",
+          "from-date": "2024-07-15",
+          "to-date": "2025-01-15",
+          "wage/salary-range": "GH₵ 3,000 - GH₵ 4,500 monthly"
+        },
+        {
+          "id": "007",
+          "category": "Construction and Trades",
+          "field": "take-in",
+          "jobname": "BuildWell Construction",
+          "name": "Yaw Asare",
+          "email": "y.asare@buildwellconstruction.com",
+          "phone": "+233 32 123 4567",
+          "description": "Professional civil engineer needed for infrastructure projects.",
+          "skill-required": "Civil engineering degree, project management experience, and proficiency in CAD software.",
+          "from-date": "2024-08-01",
+          "to-date": "2025-02-28",
+          "wage/salary-range": "GH₵ 5,000 - GH₵ 7,000 monthly"
+        }
+    ]
+}

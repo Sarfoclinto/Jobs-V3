@@ -1,0 +1,74 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.debug {
+  border: 1px solid red;
+}
+.dark-bg {
+  background-color: #120d42;
+}
+#logo span {
+  color: #2d18eb;
+}
+.cus-grid {
+  display: grid;
+  grid-template-columns: 2fr 5fr;
+  height: 100%;
+}
+.hero {
+  height: 610px;
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+.login-bg {
+  background: rgb(31, 31, 31);
+  background: linear-gradient(
+    109deg,
+    rgba(31, 31, 31, 1) 0%,
+    rgba(63, 94, 99, 1) 88%,
+    rgba(0, 72, 87, 1) 99%,
+    rgba(255, 255, 255, 1) 99%,
+    rgba(255, 255, 255, 1) 100%
+  );
+}
+.login {
+  background-image: url(src/assets/login-bg.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.bg-dashboard {
+  background-color: rgb(38, 38, 44);
+}
+.bg-outlet {
+  background-color: rgb(28, 28, 32);
+}
+.logo {
+  object-fit: cover;
+  object-position: center;
+}
+.active {
+  background-color: rgb(49, 52, 59);
+}
+.active-tab {
+  background-color: #011222;
+}
+.my-shadow {
+  box-shadow: 1px 1px 3px #10508b;
+}
+#outlet::-webkit-scrollbar {
+  display: none;
+}
+#business::-webkit-scrollbar {
+  display: none;
+}
+.cus-w{
+  width: calc(100% - 60px);
+}

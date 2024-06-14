@@ -1,0 +1,146 @@
+{
+  "users": [
+    {
+      "id": "1010",
+      "first_name": "Hec",
+      "last_name": "Sherlock",
+      "email": "hecsherlock@gmail.com",
+      "gender": "Male",
+      "password": "1234500000",
+      "username": "hecsherlock",
+      "img": "https://cdn.pixabay.com/photo/2015/07/20/13/01/man-852770_640.jpg "
+    },
+    {
+      "id": "1011",
+      "first_name": "Ava",
+      "last_name": "Holmes",
+      "email": "avaholmes@gmail.com",
+      "gender": "Female",
+      "password": "6789000000",
+      "username": "holmes_ava",
+      "img": "https://cdn.pixabay.com/photo/2024/05/29/04/25/woman-8795132_640.jpg "
+    },
+    {
+      "id": "1012",
+      "first_name": "Ethan",
+      "last_name": "Watson",
+      "email": "ethanwatson@gmail.com",
+      "gender": "Male",
+      "password": "1111100000",
+      "username": "lyk_watson-ethan",
+      "img": "https://cdn.pixabay.com/photo/2015/08/05/04/25/people-875617_640.jpg"
+    },
+    {
+      "id": "1013",
+      "first_name": "Sophia",
+      "last_name": "Bunyan",
+      "email": "sophIABunyan@gmail.com",
+      "gender": "Female",
+      "password": "2222200000",
+      "username": "mynSophia",
+      "img": "https://cdn.pixabay.com/photo/2017/11/02/03/14/daughter-of-vietnam-2910041_1280.jpg"
+    },
+    {
+      "id": "1014",
+      "first_name": "Michael",
+      "last_name": "Holt",
+      "email": "michaelholt@gmail.com",
+      "gender": "Male",
+      "password": "3333300000",
+      "username": "holt-the-Mick",
+      "img": "https://cdn.pixabay.com/photo/2019/10/23/08/03/woman-4570763_640.jpg"
+    },
+    {
+      "id": "1015",
+      "first_name": "Olivia",
+      "last_name": "Duncan",
+      "email": "oliviaDuncan@gmail.com",
+      "gender": "Female",
+      "password": "4444400000",
+      "username": "gyl-lyk-duncan",
+      "img": "https://cdn.pixabay.com/photo/2015/12/21/05/45/girl-1102086_640.jpg"
+    },
+    {
+      "id": "1016",
+      "first_name": "Daniel",
+      "last_name": "Thompson",
+      "email": "danielthompson@gmail.com",
+      "gender": "Male",
+      "password": "5555500000",
+      "img": "https://cdn.pixabay.com/photo/2015/06/22/08/40/child-817373_640.jpg"
+    },
+    {
+      "id": "1017",
+      "first_name": "Ava",
+      "last_name": "Miller",
+      "email": "avamiller@gmail.com",
+      "gender": "Female",
+      "password": "6666600000",
+      "username": "amMillerava",
+      "img": "https://cdn.pixabay.com/photo/2018/01/06/09/25/hijab-3064633_640.jpg"
+    },
+    {
+      "id": "1018",
+      "first_name": "Michael",
+      "last_name": "Clark",
+      "email": "michaelclark@gmail.com",
+      "gender": "Male",
+      "password": "7777700000",
+      "username": "clarkAsMicheal",
+      "img": "https://cdn.pixabay.com/photo/2017/04/23/19/43/sculpture-2254803_640.jpg"
+    },
+    {
+      "id": "1019",
+      "first_name": "Emma",
+      "last_name": "Brown",
+      "email": "emmabrown@gmail.com",
+      "gender": "Female",
+      "password": "8888800000",
+      "username": "emmaBrown",
+      "img": "https://cdn.pixabay.com/photo/2022/09/14/01/12/portrait-7453154_640.jpg"
+    },
+    {
+      "id": "1020",
+      "first_name": "Daniel",
+      "last_name": "Wilson",
+      "email": "danielwilson@gmail.com",
+      "gender": "Male",
+      "password": "9999900000",
+      "username": "famousWil@son",
+      "img": "https://cdn.pixabay.com/photo/2016/09/30/22/02/wedding-1706514_640.jpg"
+    },
+    {
+      "id": "5b7a",
+      "first_name": "Benjamin",
+      "last_name": "boateng",
+      "email": "benb@hotmail.com",
+      "username": "benb",
+      "gender": "Male",
+      "password": "thisismypasswrod",
+      "tel": "0595792992",
+      "img": "https://cdn.pixabay.com/photo/2023/10/10/11/05/gentlemen-8306182_640.jpg"
+    },
+    {
+      "id": "f7ba",
+      "first_name": "Virgile",
+      "last_name": "Austin",
+      "email": "virgile@gmail.com",
+      "username": "virgiledat",
+      "gender": "Male",
+      "password": "123",
+      "tel": "0595792992",
+      "img": ""
+    },
+    {
+      "id": "2339",
+      "first_name": "peter",
+      "last_name": "despite",
+      "email": "perterdespite@gmail.com",
+      "username": "peterdespite",
+      "gender": "Male",
+      "password": "1111111",
+      "tel": "0595792992",
+      "img": ""
+    }
+  ]
+}

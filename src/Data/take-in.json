@@ -1,0 +1,192 @@
+{
+  "take-in": [
+    {
+        "id": "fca23",
+      "category": [
+        "Engineering and Technology",
+        "Healthcare",
+        "Education and Training"
+      ],
+      "field": "take-in",
+      "name": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "phone": "+233 55 123 4567",
+      "description": "Experienced software developer with a passion for healthcare technology.",
+      "skill-experience": [
+        "Full-stack development",
+        "Healthcare systems",
+        "Agile methodologies"
+      ],
+      "available-time": "2024-07-01 to 2024-12-31",
+      "jobs-completed": [
+        "Hospital patient management system",
+        "Clinic appointment app"
+      ]
+    },
+    {
+      "id": "asq12",
+      "category": ["Sales and Marketing", "Service Industry"],
+      "field": "take-in",
+      "name": "Bob Kwame",
+      "email": "bob.kwame@example.com",
+      "phone": "+233 55 987 6543",
+      "description": "Dynamic sales strategist with extensive customer service experience.",
+      "skill-experience": [
+        "Market analysis",
+        "Customer relationship management",
+        "Sales leadership"
+      ],
+      "available-time": "2024-08-01 to 2025-01-31",
+      "jobs-completed": [
+        "Retail marketing campaign",
+        "Customer service training program"
+      ]
+    },
+    {
+      "id": "rfd23",
+      "category": ["Education and Training", "Arts and Entertainment"],
+      "field": "take-in",
+      "name": "Charles Adjei",
+      "email": "charles.adjei@example.com",
+      "phone": "+233 55 678 1234",
+      "description": "Creative educator with a background in performing arts.",
+      "skill-experience": [
+        "Curriculum development",
+        "Theater production",
+        "Public speaking"
+      ],
+      "available-time": "2024-09-01 to 2025-03-31",
+      "jobs-completed": [
+        "School drama club director",
+        "Community theater workshop leader"
+      ]
+    },
+    {
+      "id": "qwe34",
+      "category": ["Healthcare", "Service Industry"],
+      "field": "take-in",
+      "name": "Diana Asamoah",
+      "email": "diana.asamoah@example.com",
+      "phone": "+233 55 321 9876",
+      "description": "Certified nurse with a heart for elderly care.",
+      "skill-experience": [
+        "Patient care",
+        "Elderly support",
+        "Medical administration"
+      ],
+      "available-time": "2024-10-01 to 2025-04-30",
+      "jobs-completed": [
+        "Home care nurse",
+        "Assisted living facility coordinator"
+      ]
+    },
+    {
+      "id": "asd45",
+      "category": ["Engineering and Technology", "Construction and Trades"],
+      "field": "take-in",
+      "name": "Emmanuel Boakye",
+      "email": "emmanuel.boakye@example.com",
+      "phone": "+233 55 654 7890",
+      "description": "Civil engineer with a focus on sustainable building practices.",
+      "skill-experience": [
+        "Structural engineering",
+        "Project management",
+        "Green technologies"
+      ],
+      "available-time": "2024-11-01 to 2025-05-31",
+      "jobs-completed": [
+        "Eco-friendly residential complex",
+        "Renewable energy project"
+      ]
+    },
+    {
+      "id": "zxc56",
+      "category": ["Transportation and Logistics", "Service Industry"],
+      "field": "take-in",
+      "name": "Frank Acheampong",
+      "email": "frank.acheampong@example.com",
+      "phone": "+233 55 765 4321",
+      "description": "Logistics expert with a knack for efficiency and customer satisfaction.",
+      "skill-experience": [
+        "Supply chain optimization",
+        "Fleet management",
+        "Client relations"
+      ],
+      "available-time": "2024-12-01 to 2025-06-30",
+      "jobs-completed": [
+        "Warehouse management system overhaul",
+        "Delivery route optimization"
+      ]
+    },
+    {
+      "id": "rfv67",
+      "category": ["Business and Finance", "Sales and Marketing"],
+      "field": "take-in",
+      "name": "Grace Mensah",
+      "email": "grace.mensah@example.com",
+      "phone": "+233 55 876 5432",
+      "description": "Innovative financial analyst with a proven track record in market growth.",
+      "skill-experience": [
+        "Financial modeling",
+        "Investment strategies",
+        "Market research"
+      ],
+      "available-time": "2025-01-01 to 2025-07-31",
+      "jobs-completed": [
+        "Startup investment analysis",
+        "Market expansion project"
+      ]
+    },
+    {
+      "id": "cvb78",
+      "category": ["Education and Training", "Healthcare"],
+      "field": "take-in",
+      "name": "Henry Ofori",
+      "email": "henry.ofori@example.com",
+      "phone": "+233 55 987 6543",
+      "description": "Health educator specializing in community wellness programs.",
+      "skill-experience": [
+        "Public health campaigns",
+        "Workshop facilitation",
+        "Nutritional counseling"
+      ],
+      "available-time": "2025-02-01 to 2025-08-31",
+      "jobs-completed": ["City health initiative", "School nutrition program"]
+    },
+    {
+      "id": "bna89",
+      "category": ["Arts and Entertainment", "Education and Training"],
+      "field": "take-in",
+      "name": "Ivy Quaye",
+      "email": "ivy.quaye@example.com",
+      "phone": "+233 55 098 7654",
+      "description": "Artistic director with a passion for community arts education.",
+      "skill-experience": [
+        "Art curation",
+        "Event planning",
+        "Educational outreach"
+      ],
+      "available-time": "2025-03-01 to 2025-09-30",
+      "jobs-completed": [
+        "Gallery exhibition coordination",
+        "Art festival organization"
+      ]
+    },
+    {
+      "id": "nml90",
+      "category": ["Service Industry", "Sales and Marketing"],
+      "field": "take-in",
+      "name": "Joyce Dapaah",
+      "email": "joyce.dapaah@example.com",
+      "phone": "+233 55 109 8765",
+      "description": "Customer service specialist with a flair for sales and marketing.",
+      "skill-experience": [
+        "Client support",
+        "Sales pitching",
+        "Brand promotion"
+      ],
+      "available-time": "2025-04-01 to 2025-10-31",
+      "jobs-completed": ["Customer retention campaign", "Product launch event"]
+    }
+  ]
+}
